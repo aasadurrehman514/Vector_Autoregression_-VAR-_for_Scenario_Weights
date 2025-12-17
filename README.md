@@ -42,4 +42,3 @@ Scenario weights are treated as **approximations of probability mass**, not subj
 
 ## References
 Moody’s Analytics (2019): *Deconstructing Scenario Weights for CECL* 
-
