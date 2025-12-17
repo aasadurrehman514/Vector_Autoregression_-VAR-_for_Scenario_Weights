@@ -69,7 +69,7 @@ def cal_senario_weights(event):
 
     scenarios = pd.DataFrame(scenarios,index=index)
 
-    n_sim = 50000
+    n_sim = 100000
     sim_results = []
 
     for i in range(n_sim):
