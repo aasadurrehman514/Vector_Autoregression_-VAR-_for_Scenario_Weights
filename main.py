@@ -1,5 +1,4 @@
 import argparse
-import json
 from datetime import datetime
 
 from VAR_weights import cal_senario_weights
